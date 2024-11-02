@@ -1,7 +1,7 @@
-[![MasterHead(https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif)](https:rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Pragati</h1>
 <h3 align="center">A curious mind driven by a passion for learning and innovation.</h3>
-<img align=“right” alt=“Coding” width=“400” src=“https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif”>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragati1466&label=Profile%20views&color=0e75b6&style=flat" alt="pragati1466" /> </p>
 
