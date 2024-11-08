@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pragati</h1>
+
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Pragati!;Welcome+to+my+GitHub+Profile!;I+love+coding+and+coffee+☕" target="_blank">
