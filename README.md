@@ -49,4 +49,4 @@
   <!-- Third line: one image -->
   <img height="169em" src="https://github-readme-stats.vercel.app/api?username=Pragati1466&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
 </p>
-
+<img width="100%" src="https://camo.githubusercontent.com/f80fa9ea36938f6ad3c7682d4ade383aa16949bc7a294c64713549a3977d1c24/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d39302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=90&amp;section=footer" style="max-width: 100%;">
