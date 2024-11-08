@@ -33,7 +33,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
-
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pragati1466&theme=radical" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pragati1466&theme=radical" style="max-width: 100%;">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pragati1466&show_icons=true&locale=en&layout=compact" alt="pragati1466" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pragati1466&show_icons=true&locale=en" alt="pragati1466" /></p>
