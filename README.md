@@ -1,8 +1,8 @@
 
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Pragati!;Welcome+to+my+GitHub+Profile!;I+love+coding+and+coffee+☕" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Pragati!;Welcome+to+my+GitHub+Profile!;I+love+coding+and+coffee+☕&font=Fira+Code&center=true&width=600&height=50&color=6A5ACD&vCenter=true&pause=1000&size=30" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Pragati!;Welcome+to+my+GitHub+Profile!;I+love+coding" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Pragati!;Welcome+to+my+GitHub+Profile!;I+love+coding&font=Fira+Code&center=true&width=600&height=50&color=6A5ACD&vCenter=true&pause=1000&size=30" alt="Typing SVG" />
   </a>
 </p>
 
