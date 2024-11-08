@@ -20,6 +20,12 @@
 - ⚡ Fun fact **I’m a coffee addict and can code for hours with a cup in hand.**
   
 <p dir="auto"><a href="https://linkedin.com/in/pragati-860830284" rel="nofollow"><img src="https://camo.githubusercontent.com/566ff7f7088d52a3c246ac8cb7b0e8e416d6568777f48e84abfa09e593da140e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6e6e6563742532304d652532306f6e2d4c696e6b6564696e2d707572706c653f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564696e" alt="Follow On Linkedin" data-canonical-src="https://img.shields.io/badge/Connect%20Me%20on-Linkedin-purple?style=for-the-badge&amp;logo=Linkedin" style="max-width: 100%;"></a></p>
+<p dir="auto">
+  <a href="https://www.holopin.io/@pragati1466#" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/dbe567efb2aaa8ef7cc8a19d3806995e8cf9f125c10a6f482d16b75d5c523250/68747470733a2f2f686f6c6f70696e2e6d652f70616c6c617669" alt="An image of @pragati1466's Holopin badges, which is a link to view their full Holopin profile" data-canonical-src="https://holopin.me/pragati1466" style="max-width: 100%;">
+  </a>
+</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
