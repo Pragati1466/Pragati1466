@@ -9,8 +9,7 @@
 <h3 align="center">A curious mind driven by a passion for learning and innovation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragati1466&label=Profile%20views&color=0e75b6&style=flat" alt="pragati1466" /> </p>
-<p>Last commit on GitHub: <a href="[https://github.com/yourprofile](https://github.com/Pragati1466)" target="_blank">GitHub</a></p>
-
+<p>Last commit on GitHub: <a href="https://github.com/Pragati1466" target="_blank">GitHub</a></p>
 
 - 👯 I’m looking to collaborate on **Open Source Projects/Hackathon Projects**
 
