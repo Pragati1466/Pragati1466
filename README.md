@@ -1,4 +1,5 @@
-<img src="[https://drive.google.com/uc?export=view&id=11tzyA9M7B8wwj51YJXsgGIovSI-zkg6F](https://drive.google.com/file/d/15kctPgi4eXKFPfev99FoGZD05NBbtuhj/view?usp=sharing)](https://drive.google.com/file/d/15kctPgi4eXKFPfev99FoGZD05NBbtuhj/view?usp=sharing" alt="Pragati" style="max-width: 100%;">
+<img src="https://drive.google.com/uc?export=view&id=15kctPgi4eXKFPfev99FoGZD05NBbtuhj" alt="Pragati" style="max-width: 100%;">
+
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Pragati!;Welcome+to+my+GitHub+Profile!;I+love+coding" target="_blank">
