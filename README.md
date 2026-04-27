@@ -1,46 +1,78 @@
 <img src="https://drive.google.com/uc?export=view&id=15kctPgi4eXKFPfev99FoGZD05NBbtuhj" alt="Pragati" style="max-width: 100%;">
 
+<h2 align="center">hey, i'm pragati 👋</h2>
+<p align="center">i like building things, breaking them, and figuring out how they work again.</p>
 
-<h3 align="center">A curious mind driven by a passion for learning and innovation.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pragati1466&label=Profile%20views&color=0e75b6&style=flat" alt="pragati1466" /> </p>
-
-
-- 👯 I’m looking to collaborate on **Open Source Projects/Hackathon Projects**
-
-- 💬 Ask me about **React**
-
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/pragati-860830284/)
-
-- ⚡ Fun fact **I’m a coffee addict and can code for hours with a cup in hand.**
-  
-
-[![An image of @pragati1466's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pragati1466)](https://holopin.io/@pragati1466)
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <img src="https://komarev.com/ghpvc/?username=pragati1466&label=Profile%20views&color=0e75b6&style=flat" alt="pragati1466" />
 </p>
-<p align="center">
-  <!-- First line: two images -->
-  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pragati1466&theme=radical">
-  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pragati1466&theme=radical">
+
+---
+
+### 👀 about me
+
+- currently exploring **full stack + real world systems**
+- i enjoy turning random ideas into actual working projects  
+- been working with **react, fastapi, mongodb lately**
+- sometimes i do dsa, sometimes it does me 👍
+
+---
+
+### 🚀 tech i use (and keep figuring out)
+
+<p align="left">
+
+<b>💻 languages</b><br>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,java,sql" /><br><br>
+
+<b>🎨 frontend</b><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" /><br><br>
+
+<b>🧠 backend</b><br>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" /><br><br>
+
+<b>🗄️ databases</b><br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" /><br><br>
+
+<b>🛠️ tools</b><br>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" /><br><br>
+
+<b>🌱 currently learning</b><br>
+<img src="https://skillicons.dev/icons?i=ts,redux,docker" />
+
 </p>
+
+<p align="left">
+i don’t know everything here, but i’m figuring things out as i build.
+</p>
+
+---
+
+### 🤝 let's connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/pragati-860830284/)
+- 💻 [GitHub](https://github.com/pragati1466)
+
+---
+
+### 📊 github stats (because why not)
+
 <p align="center">
-  <!-- Second line: three images -->
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pragati1466&theme=radical">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pragati1466&theme=radical">
+</p>
+
+<p align="center">
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pragati1466&theme=radical">
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pragati1466&theme=radical">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pragati1466&theme=radical&utcOffset=8">
 </p>
+
 <p align="center">
-  <!-- Third line: one image -->
-  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=Pragati1466&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=Pragati1466&theme=radical">
 </p>
-<img width="100%" src="https://camo.githubusercontent.com/f80fa9ea36938f6ad3c7682d4ade383aa16949bc7a294c64713549a3977d1c24/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d39302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=90&amp;section=footer" style="max-width: 100%;">
+
+---
+
+[![Holopin](https://holopin.me/pragati1466)](https://holopin.io/@pragati1466)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer">
