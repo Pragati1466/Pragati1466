@@ -27,7 +27,7 @@
 <p align="left">
 i use these often. some more than others. still figuring a lot out.
 </p>
----
+
 
 ### 🤝 let's connect
 
