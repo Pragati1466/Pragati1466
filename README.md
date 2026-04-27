@@ -18,34 +18,15 @@
 
 ---
 
-### 🚀 tech i use (and keep figuring out)
+<h3 align="left">🚀 tech i use (and keep figuring out)</h3>
 
 <p align="left">
-
-<b>💻 languages</b><br>
-<img src="https://skillicons.dev/icons?i=cpp,python,js,java,sql" /><br><br>
-
-<b>🎨 frontend</b><br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" /><br><br>
-
-<b>🧠 backend</b><br>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" /><br><br>
-
-<b>🗄️ databases</b><br>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" /><br><br>
-
-<b>🛠️ tools</b><br>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" /><br><br>
-
-<b>🌱 currently learning</b><br>
-<img src="https://skillicons.dev/icons?i=ts,redux,docker" />
-
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,java,react,nextjs,html,css,tailwind,nodejs,express,fastapi,mongodb,mysql,firebase,git,github,postman,vscode,vercel&perline=10" />
 </p>
 
 <p align="left">
-i don’t know everything here, but i’m figuring things out as i build.
+i use these often. some more than others. still figuring a lot out.
 </p>
-
 ---
 
 ### 🤝 let's connect
