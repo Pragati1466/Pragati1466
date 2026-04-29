@@ -1,7 +1,6 @@
 <img src="https://drive.google.com/uc?export=view&id=15kctPgi4eXKFPfev99FoGZD05NBbtuhj" alt="Pragati" style="max-width: 100%;">
 
 <h2 align="center">hey, i'm pragati 👋</h2>
-<p align="center">i like building things, breaking them, and figuring out how they work again.</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F70000&center=true&vCenter=true&lines=full+stack+dev;building+real+systems;learning+every+day" />
 </p>
@@ -50,15 +49,8 @@ i use these often. some more than others. still figuring a lot out.
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pragati1466&theme=radical">
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pragati1466&theme=radical">
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pragati1466&theme=react-dark"/>
-</p>
-
 ---
 
 [![Holopin](https://holopin.me/pragati1466)](https://holopin.io/@pragati1466)
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api"/>
-</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer">
