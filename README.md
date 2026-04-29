@@ -13,7 +13,7 @@
 - been working with **react, fastapi, mongodb lately**
 - sometimes i do dsa, sometimes it does me 👍
 
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 <h3 align="left">🚀 tech i use (and keep figuring out)</h3>
 
 <p align="left">
