@@ -50,6 +50,9 @@ i use these often. some more than others. still figuring a lot out.
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pragati1466&theme=radical">
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pragati1466&theme=radical">
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pragati1466&theme=react-dark"/>
+</p>
 
 <p align="center">
   <img height="169em" src="https://github-readme-stats.vercel.app/api?username=Pragati1466&theme=radical">
