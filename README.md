@@ -43,7 +43,6 @@
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pragati1466&theme=radical">
 </p>
 
----
 
 ### 🏅 badges
 
@@ -62,6 +61,5 @@
   💻 <a href="https://github.com/pragati1466">GitHub</a>
 </p>
 
----
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer">
