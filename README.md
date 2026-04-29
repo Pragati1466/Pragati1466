@@ -19,7 +19,7 @@
 
 ---
 
-### 🚀 tech i use (and keep figuring out)
+### 🚀 tech i use 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,java,react,nextjs,html,css,tailwind,nodejs,express,fastapi,mongodb,mysql,firebase,git,github,postman,vscode,vercel&perline=10" />
