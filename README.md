@@ -6,8 +6,9 @@
   <img src="https://komarev.com/ghpvc/?username=pragati1466&label=Profile%20views&color=0e75b6&style=flat" alt="pragati1466" />
 </p>
 
----
-
+![MediBharat](https://img.shields.io/badge/MediBharat-active-success)
+![Signalist](https://img.shields.io/badge/Signalist-live-blue)
+![Marketplace](https://img.shields.io/badge/Marketplace-building-yellow)
 
 ### 👀 about me
 
@@ -16,15 +17,11 @@
 - been working with **react, fastapi, mongodb lately**
 - sometimes i do dsa, sometimes it does me 👍
 
----
 
 <h3 align="left">🚀 tech i use (and keep figuring out)</h3>
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,java,react,nextjs,html,css,tailwind,nodejs,express,fastapi,mongodb,mysql,firebase,git,github,postman,vscode,vercel&perline=10" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pragati1466&theme=radical&no-frame=true&margin-w=10"/>
 </p>
 
 <p align="left">
