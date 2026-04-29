@@ -24,13 +24,14 @@
 i use these often. some more than others. still figuring a lot out.
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ### 🤝 let's connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/pragati-860830284/)
 - 💻 [GitHub](https://github.com/pragati1466)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ### 📊 github stats (because why not)
 
@@ -43,8 +44,8 @@ i use these often. some more than others. still figuring a lot out.
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pragati1466&theme=radical">
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pragati1466&theme=radical">
 </p>
----
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 [![Holopin](https://holopin.me/pragati1466)](https://holopin.io/@pragati1466)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer">
