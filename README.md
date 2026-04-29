@@ -8,6 +8,7 @@
 </p>
 
 ---
+![snake](https://raw.githubusercontent.com/pragati1466/pragati1466/output/github-contribution-grid-snake.svg)
 
 ### 👀 about me
 
