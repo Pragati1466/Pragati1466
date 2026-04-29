@@ -2,13 +2,15 @@
 
 <h2 align="center">hey, i'm pragati 👋</h2>
 <p align="center">i like building things, breaking them, and figuring out how they work again.</p>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&center=true&vCenter=true&lines=full+stack+dev;building+real+systems;learning+every+day" />
+</p>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=pragati1466&label=Profile%20views&color=0e75b6&style=flat" alt="pragati1466" />
 </p>
 
 ---
-![snake](https://raw.githubusercontent.com/pragati1466/pragati1466/output/github-contribution-grid-snake.svg)
+
 
 ### 👀 about me
 
