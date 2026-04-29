@@ -7,6 +7,9 @@
 </p>
 
 👀 about me
+<p align="center">
+  <img src="https://img.shields.io/badge/building-real%20projects-blue?style=for-the-badge"/>
+</p>
 
 - currently exploring **full stack + real world systems**
 - i enjoy turning random ideas into actual working projects  
