@@ -20,6 +20,9 @@
 - sometimes i do dsa, sometimes it does me 👍
 
 ---
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</p>
 
 <h3 align="left">🚀 tech i use (and keep figuring out)</h3>
 
@@ -52,10 +55,6 @@ i use these often. some more than others. still figuring a lot out.
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pragati1466&theme=react-dark"/>
-</p>
-
-<p align="center">
-  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=Pragati1466&theme=radical">
 </p>
 
 ---
