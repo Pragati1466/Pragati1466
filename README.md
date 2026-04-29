@@ -1,6 +1,4 @@
 <img src="https://drive.google.com/uc?export=view&id=15kctPgi4eXKFPfev99FoGZD05NBbtuhj" alt="Pragati" style="max-width: 100%;">
-
-<h2 align="center">hey, i'm pragati 👋</h2>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F70000&center=true&vCenter=true&lines=full+stack+dev;building+real+systems;learning+every+day" />
 </p>
