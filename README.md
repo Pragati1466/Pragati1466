@@ -30,7 +30,7 @@
 ### 📊 github stats
 
 <p align="center">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pragati1466&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pragati1466&show_icons=true&count_private=true&include_all_commits=true&theme=radical" />
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pragati1466&theme=radical">
 </p>
 
