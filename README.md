@@ -30,13 +30,13 @@
 ### 📊 github stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pragati1466&show_icons=true&count_private=true&include_all_commits=true&theme=radical" />
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pragati1466&theme=radical">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Pragati1466&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragati1466&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pragati1466&theme=radical">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pragati1466&theme=radical">
+  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pragati1466&theme=radical&utcOffset=+5.5" />
+  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pragati1466&theme=radical" />
 </p>
 
 
