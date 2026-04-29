@@ -20,9 +20,6 @@
 - sometimes i do dsa, sometimes it does me 👍
 
 ---
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-</p>
 
 <h3 align="left">🚀 tech i use (and keep figuring out)</h3>
 
@@ -60,5 +57,8 @@ i use these often. some more than others. still figuring a lot out.
 ---
 
 [![Holopin](https://holopin.me/pragati1466)](https://holopin.io/@pragati1466)
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api"/>
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer">
