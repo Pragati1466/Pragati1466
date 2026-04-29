@@ -1,6 +1,11 @@
 <img src="https://drive.google.com/uc?export=view&id=15kctPgi4eXKFPfev99FoGZD05NBbtuhj" alt="Pragati" style="max-width: 100%;">
 
 <h2 align="center">hey, i'm pragati 👋</h2>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/pragati1466?style=social" />
+  <img src="https://img.shields.io/badge/Built%20With-React%20%7C%20FastAPI%20%7C%20MongoDB-blue" />
+  <img src="https://img.shields.io/badge/status-building%20cool%20stuff-success" />
+</p>
 <p align="center">i like building things, breaking them, and figuring out how they work again.</p>
 
 <p align="left">
