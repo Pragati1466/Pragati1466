@@ -7,14 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&center=true&vCenter=true&lines=full+stack+dev;building+real+systems;learning+every+day" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=pragati1466&label=profile%20views&color=0e75b6&style=flat" />
 </p>
-
----
 
 ### 👀 about me
 
