@@ -23,6 +23,9 @@
 <p align="left">
 <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,java,react,nextjs,html,css,tailwind,nodejs,express,fastapi,mongodb,mysql,firebase,git,github,postman,vscode,vercel&perline=10" />
 </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pragati1466&theme=radical&no-frame=true&margin-w=10"/>
+</p>
 
 <p align="left">
 i use these often. some more than others. still figuring a lot out.
