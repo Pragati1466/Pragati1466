@@ -5,8 +5,8 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=pragati1466&label=Profile%20views&color=0e75b6&style=flat" alt="pragati1466" />
 </p>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-### 👀 about me
+
+👀 about me
 
 - currently exploring **full stack + real world systems**
 - i enjoy turning random ideas into actual working projects  
