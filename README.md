@@ -5,11 +5,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=pragati1466&label=Profile%20views&color=0e75b6&style=flat" alt="pragati1466" />
 </p>
-
-![MediBharat](https://img.shields.io/badge/MediBharat-active-success)
-![Signalist](https://img.shields.io/badge/Signalist-live-blue)
-![Marketplace](https://img.shields.io/badge/Marketplace-building-yellow)
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 ### 👀 about me
 
 - currently exploring **full stack + real world systems**
